@@ -257,6 +257,9 @@ body {
   line-height: 1.5em;
   margin: 0;
 }
+footer {
+  align-self: center;
+}
 @media (min-width: 1000px) {
   body {
     flex-direction: row;
